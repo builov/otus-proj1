@@ -1,0 +1,7 @@
+{
+    "name": "otus/homework1",
+    "description": "description",
+    "type": "library",
+    "license": "MIT",
+    "require": {"builov/lib1": "dev-master"}
+}

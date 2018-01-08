@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "40ad6b12ba10984bff0062714937a6da",
+    "packages": [
+        {
+            "name": "builov/lib1",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/builov/lib1.git",
+                "reference": "90aaa293cb0597874bc62f654d332e0d8836fc2f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/builov/lib1/zipball/90aaa293cb0597874bc62f654d332e0d8836fc2f",
+                "reference": "90aaa293cb0597874bc62f654d332e0d8836fc2f",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "lib.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "test lib",
+            "time": "2018-01-08T19:32:31+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "builov/lib1": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
